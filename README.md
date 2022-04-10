@@ -1,4 +1,3 @@
 # livroLivre
 
-A aplicação web <i>LivroLivre</i> é um projeto acadêmico para a matéria de Programação Web. O objetivo do site criado é que a aplicação conecte pessoas para que possam emprestar livros, filtrando-os pelo gênero, título, etc.
-Tecnologias utilizadas: HTML, CSS, PHP e MySQL.
+The LivroLivre web application is an academic project for the Web Programming subject. The objective of the site created is that the application connects people so they can borrow books, filtering them by genre, title, etc. Used technologies: HTML, CSS, PHP and MySQL.
